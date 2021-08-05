@@ -1,7 +1,7 @@
 # Observer Pattern in C++
 Observer Pattern in C++
 
-- Description: The code below simulates how you get notifications from celebrities you follow on Facebook using the Observer in C ++.
+- Description: The code below simulates how you get notifications from your idol that you followed on Facebook using the Observer in C ++.
 - Input: None
 - Output:
 
